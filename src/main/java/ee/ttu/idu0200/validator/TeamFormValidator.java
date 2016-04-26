@@ -27,6 +27,9 @@ public class TeamFormValidator {
     } else {
       try {
         int membersAmount = parseInt(membersAmountString);
+        if (membersAmount < 0) {
+          bindingResult.put("team.membersAmount",  "team.membersAmount.tooLow");
+        }
         if (membersAmount > 20) {
           bindingResult.put("team.membersAmount",  "team.membersAmount.tooMuch");
         }
