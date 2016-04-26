@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" description="IE=edge">
   <meta name="viewport" description="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head description must come *after* these tags -->
-  <title>Alex IDU0200 Intermediate Assignment</title>
+  <title>IDU0200 Intermediate Assignment</title>
 
   <!-- JQuery -->
   <script src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
